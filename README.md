@@ -91,9 +91,7 @@ forest_blog.sql: 数据库文件，请先创建数据库，然后以运行sql文
 如果不修改，会出现uploads的图片无法加载，无法显示上传目录的图片
 
  
-## 下载地址：
-Github地址：https://github.com/saysky/ForestBlog
-（如果可以帮忙点一次Star和Fork）
+ 
  
 ## 更新记录
 - 2021年02月25日
@@ -105,10 +103,3 @@ Github地址：https://github.com/saysky/ForestBlog
 - 2017年10月10日
 - 首次完整提交
 
-## 请喝一杯奶茶
-请我喝一杯奶茶吧！
-插条广告：博主最近有点时间，长期接毕设定制，软件定制，Java问题解决 <br/>
-具体查看[有偿服务](https://liuyanzhao.com/bulletin/my-service)  <br/>
-博主付费商品：[https://liuyanzhao.com/shop.html](https://liuyanzhao.com/shop.html)
-
-![image](uploads/donate.png)

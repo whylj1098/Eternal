@@ -1,30 +1,12 @@
-最新消息，SpringBoot博客已经开源，[SENS](https://github.com/saysky/SENS) <br/>
-最新消息 SpringBoot/SSM/Duubo多个版本 [初云博客-SpringBoot版本](https://github.com/saysky/ChuyunBlog)<br/>
-[更多项目、博主付费商品](https://liuyanzhao.com/shop.html)
-
 
 # 关于项目
 该博客是基于SSM实现的个人博客系统，适合初学SSM和个人博客制作的同学学习。<br/>
 最新版本支持用户注册，包含用户和管理员两个角色 。<br/>
-博主已写了一篇该项目的毕业论文和录制了2个小时的代码讲解可以供大家学习，需要的可以联系博主，微信847064370。<br/>
 
 主要涉及技术包括的包括 Maven、Spring、SpringMVC、MyBatis、JSP、MySQL等。 <br/>
 详细介绍：[https://liuyanzhao.com/6347.html](https://liuyanzhao.com/6347.html) <br/>
 预览地址 [https://forestblog.liuyanzhao.com](https://forestblog.liuyanzhao.com)
 
-**博主提供有偿服务**
-- 远程调试环境和运行项目 50
-- 项目论文 200
-- 项目详细讲解2-3小时 200-300
-- 部署到云服务器 200
-- 项目和部分功能定制 200-500
-- 毕业设计定制 1000-1500
-
-## 效果预览
-因博主服务器数量有限，目前该SSM博客已下线，不提供实时预览，大家可以本地部署。<br/>
-目前 SENS 部署了，效果和该项目前端相似，预览地址 https://blog.liuyanzhao.com 。<br/>
-以及博主个人博客主站 https://liuyanzhao.com 也是基于 springboot+vuejs 开发。<br/>
-<br/>
 
 前台效果图  <br/>
 ![image](uploads/home.png)
@@ -51,12 +33,8 @@
 ![image](https://github.com/saysky/ForestBlog/blob/master/uploads/tomcat.png)
 
 
-## 使用步骤
-任何问题都可以联系我 <br/>
-简单的我可以直接口头回复你，复杂的可以有偿远程帮你。<br/>
-Q Q：847064370 <br/>
-微信：847064370 <br/>
-在线留言：[https://liuyanzhao.com/message.html](https://liuyanzhao.com/message.html)
+
+
 
 #### 1、克隆项目  <br/>
 克隆或者下载项目到本地，解压，主要分为三个部分：ForestBlog、uploads 和 forest_blog.sql <br/>
